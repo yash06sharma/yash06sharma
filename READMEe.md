@@ -78,6 +78,14 @@ Developed real-time push notification and email notification systems for an HR m
 
 Public repositories showcased here are selective representations of my engineering approach, system design practices, and development standards. They are intended to reflect architectural thinking, scalability considerations, maintainable code structure, and production-oriented development workflows.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=YSHSHMA&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YSHSHMA&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YSHSHMA&theme=tokyo-night)
+
 ---
 
 ## 🧰 Toolbox
@@ -107,15 +115,3 @@ Email: 06yashsharma@gmail.com
 ---
 
 > Focused on building performant systems and scalable products that deliver real business value.
----
-## 📈 My GitHub History
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
