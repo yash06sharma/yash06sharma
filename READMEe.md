@@ -16,7 +16,7 @@ I enjoy solving engineering problems related to scalability, reusable architectu
 
 ---
 
-## 🛠️ Scalable Engineering Approach
+## 🛠️ Engineering Approach
 
 Building scalable, maintainable, and production-ready applications with a strong focus on clean architecture, backend systems, performance optimization, and long-term reliability.
 
@@ -28,7 +28,7 @@ Building scalable, maintainable, and production-ready applications with a strong
 
 ---
 
-## 🧩 Technologies & Core Expertise
+## 🧩 Core Expertise
 
 Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
 
@@ -42,7 +42,7 @@ Focused on modern full-stack technologies, backend architecture, APIs, and scala
 
 ---
 
-## 🔥 Featured Work & Scalable Projects
+## 🔥 Featured Work
 
 These are some of the systems and applications I’ve built using scalable architecture and modern development practices.
 
@@ -76,7 +76,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 ## 📂 GitHub & Engineering Work
 
-Public repositories showcased here are selective representations of my engineering approach, system design practices, and development standards. They are intended to reflect architectural thinking, scalability considerations, maintainable code structure, and production-oriented development workflows.
+Public repositories here showcase my engineering approach, architectural thinking, scalable design, clean code, and production-ready development practices.
 
 ---
 
@@ -94,14 +94,11 @@ Public repositories showcased here are selective representations of my engineeri
 
 Master’s in Computer Application
 
-Focused on software engineering, backend systems, databases, application development, and scalable system design.
-
 ---
 
 ## 📫 Connect
 
-I’m open to collaborating on scalable web applications, backend systems, and modern full-stack projects.
-Feel free to get in touch via email for opportunities or collaborations.
+I’m always open to new opportunities and collaborations. Feel free to reach out via email to discuss potential projects or opportunities.
 Email: 06yashsharma@gmail.com 
 
 ---
