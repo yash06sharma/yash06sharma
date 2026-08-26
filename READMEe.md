@@ -16,8 +16,6 @@ My experience includes developing new applications as well as working with exist
 
 ## 🛠️ Engineering Approach
 
-Building scalable, maintainable, and production-ready applications with a strong focus on clean architecture, backend systems, performance optimization, and long-term reliability.
-
 - Scalable full-stack application development  
 - Clean and maintainable architecture  
 - Backend systems & REST API engineering  
