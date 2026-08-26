@@ -43,6 +43,7 @@ These are some of the systems and applications I’ve built using scalable archi
 ### eEndorsement
 
 Full-stack eCommerce platform with product management, shopping cart, authentication, Stripe payments, admin dashboard, and REST APIs.
+
 Stack: Angular • Laravel • MySQL • Stripe • REST API
 
 <p>
