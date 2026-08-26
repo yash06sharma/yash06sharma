@@ -26,8 +26,6 @@ My experience includes developing new applications as well as working with exist
 
 ## 🧩 Core Expertise
 
-Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
-
 | Layer                   | Technologies                                      |
 | ----------------------- | ------------------------------------------------- |
 | Backend Engineering     | Laravel • PHP • Node.js • REST APIs               |
