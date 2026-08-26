@@ -1,18 +1,16 @@
-# Full-Stack Developer | Clean Architecture & Scalable Systems
+# Full-Stack Developer | Angular • React • Laravel • Node.js
 
 ### Building Production-Ready Applications with Modern Web Technologies
 
-> Delivering scalable and performance-driven applications with a strong focus on clean architecture, maintainability, and real-world reliability.
+> I specialize in Angular, React, Laravel, and Node.js, with experience across frontend architecture, backend development, database design, API engineering, Docker, cloud infrastructure, and CI/CD workflows.
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a full-stack developer focused on building scalable applications and backend-driven systems using modern frontend and backend technologies.
+I build and maintain full-stack applications with a focus on clean architecture, maintainable code, scalable APIs, and reliable production systems.
 
-My work involves backend engineering, frontend architecture, API-driven development, and improving maintainability across production-style applications.
-
-I enjoy solving engineering problems related to scalability, reusable architecture, system reliability, and long-term maintainability.
+My experience includes developing new applications as well as working with existing systems — improving architecture, performance, maintainability, and overall development workflows.
 
 ---
 
@@ -48,7 +46,8 @@ These are some of the systems and applications I’ve built using scalable archi
 
 ### eEndorsement
 
-A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
+Full-stack eCommerce platform with product management, shopping cart, authentication, Stripe payments, admin dashboard, and REST APIs.
+Stack: Angular • Laravel • MySQL • Stripe • REST API
 
 <p>
 <img src="/assets/increase.svg" width="14" /> Live Site</p>
@@ -57,7 +56,9 @@ A full-featured eCommerce platform with Stripe payment integration, authenticati
 
 ### KeepMe Admin Panel
 
-Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
+Administration platform for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement system.
+
+Stack: React • Laravel • REST APIs • Analytics
 
 <p>
 <img src="/assets/increase.svg" width="14" /> Live Site
@@ -67,7 +68,9 @@ Developed a scalable admin dashboard for managing leads, customer interactions, 
 
 ### HR Management Platform
 
-Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
+HR management platform featuring employee workflows, admin-to-employee notifications, push notifications, email notifications, and discussion functionality.
+
+Stack: React • PHP • MySQL • REST APIs
 
 <p>
 <img src="/assets/increase.svg" width="14" /> Live Site</p>
@@ -92,7 +95,7 @@ Public repositories here showcase my engineering approach, architectural thinkin
 
 ## 🎓 Education
 
-Master’s in Computer Application
+Master's in Computer Application (MCA)
 
 ---
 
@@ -103,4 +106,4 @@ Email: 06yashsharma@gmail.com
 
 ---
 
-> Focused on building performant systems and scalable products that deliver real business value.
+> Building scalable applications, solving engineering problems, and delivering software that creates real business value.
